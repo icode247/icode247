@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @icode247
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning Web Develoment
 - 💞️ I’m looking to collaborate on open soruce projects
 - 📫 Reach me through my twitter handles
 
